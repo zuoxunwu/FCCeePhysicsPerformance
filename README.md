@@ -40,8 +40,8 @@ E-group used for announcements: **FCC-PED-FeasibilityStudy**. To subscribe, go [
 7. [Top physics](case-studies/top)
 8. [Direct searches for new physics](case-studies/BSM)
 -->
-1. [Electroweak Physics](phys-group/electroweak)
-2. [Higgs Physics](phys-group/higgs)
+1. [Electroweak Physics](phys-groups/electroweak)
+2. [Higgs Physics](phys-groups/higgs)
 3. [BSM Physics](phys-groups/BSM)
 4. [Top Physics](phys-groups/top)
 5. [Flavour Physics](phys-groups/flavour) & subgroup structure
